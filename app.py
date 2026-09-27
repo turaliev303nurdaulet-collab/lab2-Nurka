@@ -1,5 +1,5 @@
 # Жоба: Nurka lab2
-TITLE = "Nurka lab2"
+TITLE = "Nurka lab2 (нұсқа A)"
 VERSION = "1.0"
 
 def main():
